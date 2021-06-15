@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jorge Eduardo Fermino Oliveira Silva (@JorgeEduardoFOS)
+- 👋 Hi, I’m Jorge Eduardo Fermino Oliveira Silva (@JorgeEduardoFOS).
 - 👀 I’m interested in C and Java programming.
 - 🌱 I’m currently learning OOP.
 <!--,- 💞️ I’m looking to collaborate on ...
