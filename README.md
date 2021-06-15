@@ -2,7 +2,7 @@
 - 👀 I’m interested in C and Java programming.
 - 🌱 I’m currently learning OOP.
 <!--,- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->II
+- 📫 How to reach me ... II-->
 
 <!---
 JorgeEduardoFOS/JorgeEduardoFOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
