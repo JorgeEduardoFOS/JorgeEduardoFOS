@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Jorge Eduardo Fermino Oliveira Silva (@JorgeEduardoFOS).
 - 👀 I’m interested in C and Java programming.
 - 🌱 I’m currently learning OOP.
-- :earth_americas: I'm currently living in Brazil.
-- :earth_americas: I speak Portuguese, Spanish, English and some French.
+- 🌎 I'm currently living in Brazil.
+- 🇬🇧 I speak Portuguese, Spanish, English and some French.
+- 🇪🇸 Yo hablo portugués, español, inglés y francés.
+- 🇫🇷 Je parle portugais, spagnol, anglais et français.
+- 🌎 Eu falo português, espanhol, inglês e francês.
 <!--,- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... II-->
 
