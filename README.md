@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorge Eduardo Fermino Oliveira Silva (@JorgeEduardoFOS).
-- 👀 I’m interested in C, Java, JavaScript and Python programming.
+- 👀 I’m interested in C, Java, JavaScript, Python and Shell Script programming.
 - 🌎 I'm currently living in Brazil.
 - 🇬🇧 I speak Portuguese, Spanish, English and some French.
 - 🇪🇸 Yo hablo portugués, español, inglés y francés.
