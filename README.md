@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jorge Eduardo Fermino Oliveira Silva (@JorgeEduardoFOS).
 - 👀 I’m interested in C, Java, JavaScript, :snake: Python and Shell Script programming.
-- :brazil: I'm currently living in Campinas city, São Paulo, Brazil.
+- 🌎 :brazil: I'm currently living in Campinas city, São Paulo, Brazil.
 - 🇬🇧 I speak Portuguese, Spanish, English and some French.
 - 🇪🇸 Yo hablo portugués, español, inglés y francés.
 - 🇫🇷 Je parle portugais, spagnol, anglais et français.
